@@ -2,7 +2,7 @@
   "name": "islamiah",
   "description": "Aplikasi web yang berisi qur'an online, informasi jadwal sholat, kalender, berita islam dan lainnya.",
   "version": "1.0.0",
-  "repository": "git@github.com:feri-irawan/Islamiah.git",
+  "repository": "git@github.com:NizarXD/Alquran-sholat.git",
   "author": "Zarxd Official <arzamsanama@gmail.com>",
   "license": "MIT",
   "private": true,
